@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+.mcp_files/
+.mcp_files
+npm-debug.log
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.env 
